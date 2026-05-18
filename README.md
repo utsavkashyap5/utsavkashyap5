@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="YOUR_BANNER_LINK_HERE"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Utsav%20Kashyap&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Builder&descAlignY=60"/>
 
-# Utsav Kashyap 👋
+<h1>Hey there!!</h1>
 
-Full Stack Developer • AI Enthusiast • Building useful products
+Full Stack Developer • AI Enthusiast • Building meaningful products
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Building+AI+Projects;Learning+Machine+Learning;Always+building+something+new"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Building+AI+Projects;Learning+Machine+Learning;Always+creating+something+new"/>
 
 </div>
 
@@ -14,34 +14,39 @@ Full Stack Developer • AI Enthusiast • Building useful products
 
 ### 🚀 About Me
 
-• Building full-stack and AI-powered applications  
-• Exploring machine learning and practical AI  
-• Interested in products that solve real problems  
-• Focused on improving every day
+✨ Passionate about building useful digital products
 
----
+💻 Working with full-stack technologies and AI
 
-### ⚡ Current Focus
+🧠 Exploring machine learning through practical projects
 
-- React & modern frontend
-- Backend architecture
-- Machine Learning
-- Real-world projects
+⚡ Turning ideas into real applications
 
 ---
 
 ### 🛠 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,aws,git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,aws,git,github,vscode,nextjs" />
 </p>
+
+---
+
+### 🌱 Current Focus
+
+- Scalable full-stack applications
+- AI + Machine Learning
+- Clean UI/UX
+- Building impactful projects
 
 ---
 
 ### 🌐 Connect
 
-<p align="left">
-<a href="your-linkedin">LinkedIn</a> •
-<a href="your-portfolio">Portfolio</a> •
-<a href="your-leetcode">LeetCode</a>
+<p align="center">
+<a href="YOUR_LINKEDIN">LinkedIn</a> •
+<a href="YOUR_LEETCODE">LeetCode</a> •
+<a href="YOUR_PORTFOLIO">Portfolio</a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
