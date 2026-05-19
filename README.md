@@ -44,7 +44,7 @@ Full Stack Developer • AI Enthusiast • Building meaningful products
 ### 🌐 Connect
 
 <p align="center">
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
+<a href="www.linkedin.com/in/utsavkashyap-dev">LinkedIn</a> •
 <a href="YOUR_LEETCODE">LeetCode</a> •
 <a href="YOUR_PORTFOLIO">Portfolio</a>
 </p>
