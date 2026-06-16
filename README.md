@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Utsav+Kashyap;Full+Stack+Developer;Building+Projects+for+the+Real+World;Open+to+Software+Roles+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=32&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hey+👋+I'm+Utsav+Kashyap;Full+Stack+Engineer;Open+to+Software+Opportunities+🚀"/>
 
 </div>
 
----
+<div align="center">
 
-<h3 align="center">
-💻 Full Stack Developer • ☁️ Cloud Explorer • 🤖 AI Enthusiast
+<h3>
+⚫ Full Stack Engineer • Building Scalable Digital Experiences
 </h3>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=2&section=header"/>
 
 ---
 
@@ -16,9 +20,9 @@
 
 ## 🚀 About Me
 
-🔭 Building **real-world projects** and improving engineering skills
+🔭 Building **real-world projects** and strengthening software engineering skills
 
-🌱 Learning **DSA • System Design • Backend Architecture**
+🌱 Learning **Data Structures & Algorithms, System Design, Backend Architecture**
 
 👯 Looking to collaborate on **Open Source & Full Stack Projects**
 
@@ -33,6 +37,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://linkedin.com/in/utsavkashayp-dev">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -40,6 +45,7 @@
 <a href="mailto:utsavkashyap829@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
+
 </p>
 
 ---
@@ -80,22 +86,24 @@
 
 # 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utsavkashyap5\&theme=react-dark\&hide_border=true)]()
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utsavkashyap5\&theme=tokyo-night\&hide_border=true)]()
 
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
 <div align="center">
 
-### ✨ *Build → Ship → Repeat*
+### ✨ Build → Ship → Scale
 
-<img src="https://komarev.com/ghpvc/?username=utsavkashyap5&style=for-the-badge&color=00FFB2"/>
+<img src="https://komarev.com/ghpvc/?username=utsavkashyap5&style=for-the-badge&color=grey"/>
 
 </div>
