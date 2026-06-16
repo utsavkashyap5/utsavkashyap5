@@ -1,89 +1,101 @@
-# 👋 Hi, I'm Utsav Kashyap
+<div align="center">
 
-### Full Stack Developer • AI Enthusiast • Open Source Learner
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Utsav+Kashyap;Full+Stack+Developer;Building+Projects+for+the+Real+World;Open+to+Software+Roles+🚀"/>
 
-💫 Passionate about building scalable applications and solving real-world problems through software.
+</div>
 
 ---
 
+<h3 align="center">
+💻 Full Stack Developer • ☁️ Cloud Explorer • 🤖 AI Enthusiast
+</h3>
+
+---
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 ## 🚀 About Me
 
-🔭 Currently building real-world projects and strengthening software engineering fundamentals
+🔭 Building **real-world projects** and improving engineering skills
 
-🌱 Learning **Data Structures & Algorithms, System Design, Backend Architecture & Cloud**
+🌱 Learning **DSA • System Design • Backend Architecture**
 
-👯 Open to collaborating on **Open Source, Full Stack & AI Projects**
+👯 Looking to collaborate on **Open Source & Full Stack Projects**
 
-💬 Ask me about **Web Development, React, Node.js, Python, APIs**
+💬 Ask me about **React • Node • Python • APIs**
 
-⚡ Fun fact: *I learn fastest by building and shipping projects.*
+⚡ Fun fact:
+
+> I don't stop at "it works" — I optimize it.
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/utsavkashayp-dev)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:utsavkashyap829@gmail.com)
+<p align="left">
+<a href="https://linkedin.com/in/utsavkashayp-dev">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:utsavkashyap829@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
-### Languages
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
+<img src="https://skillicons.dev/icons?i=js,python,react,nextjs,nodejs,express,mongodb,fastapi,aws,git,github,vercel,netlify,tensorflow,pytorch"/>
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js)
-![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge\&logo=vite)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge\&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
-
-### AI / ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge\&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge\&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge\&logo=opencv)
-
-### Deployment & Tools
-
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge\&logo=amazonaws)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge\&logo=netlify)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+</div>
 
 ---
 
-## 📌 Featured Projects
+# 📊 GitHub Analytics
 
-⭐ Add your **best 3 projects here** with:
+<div align="center">
 
-* Problem solved
-* Tech stack
-* Live demo
-* GitHub repo
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=utsavkashyap5&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavkashyap5&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 📊 GitHub Stats
+<img src="https://streak-stats.demolab.com?user=utsavkashyap5&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api?username=utsavkashyap5\&show_icons=true\&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=utsavkashyap5\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsavkashyap5\&layout=compact\&theme=tokyonight)
+</div>
 
 ---
 
-### ✨ Motto
+# 🏆 Achievements
 
-> Build. Learn. Improve. Repeat.
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=utsavkashyap5&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utsavkashyap5\&theme=react-dark\&hide_border=true)]()
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+<div align="center">
+
+### ✨ *Build → Ship → Repeat*
+
+<img src="https://komarev.com/ghpvc/?username=utsavkashyap5&style=for-the-badge&color=00FFB2"/>
+
+</div>
