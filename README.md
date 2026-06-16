@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=32&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hey+👋+I'm+Utsav+Kashyap;Full+Stack+Engineer;Open+to+Software+Opportunities+🚀"/>
 
-</div>
+</div> 
 
 <div align="center">
 
