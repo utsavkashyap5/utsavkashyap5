@@ -14,6 +14,9 @@ Full Stack Engineer • Building Scalable Digital Experiences
 
 ---
 
+<br><br>
+
+
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ## 🚀 About Me
