@@ -2,21 +2,19 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=32&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hey+👋+I'm+Utsav+Kashyap;Full+Stack+Engineer;Open+to+Software+Opportunities+🚀"/>
 
-</div> 
-
-<div align="center">
+<br><br>
 
 <h3>
-⚫ Full Stack Engineer • Building Scalable Digital Experiences
+Full Stack Engineer • Building Scalable Digital Experiences
 </h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=2&section=header"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=2&section=header"/>
-
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ## 🚀 About Me
 
@@ -30,25 +28,27 @@
 
 ⚡ Fun fact:
 
-> I don't stop at "it works" — I optimize it.
+> I don't stop at **"it works"** — I optimize it.
+
+<br>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/utsavkashyap-dev" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
+  
+
 <a href="mailto:utsavkashyap829@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
-
-</p>
+</div>
 
 ---
 
@@ -66,11 +66,13 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=utsavkashyap5&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=utsavkashyap5&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavkashyap5&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavkashyap5&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=utsavkashyap5&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=utsavkashyap5&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -88,17 +90,21 @@
 
 # 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utsavkashyap5\&theme=tokyo-night\&hide_border=true)]()
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=utsavkashyap5&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
+</div>
 
 ---
 
